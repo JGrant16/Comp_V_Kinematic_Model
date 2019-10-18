@@ -1,0 +1,1 @@
+Initial Gear Ratio of 2.8 at a mass of 298lbs will give 310.4753mph at a peak acceleration of 49m/s^2

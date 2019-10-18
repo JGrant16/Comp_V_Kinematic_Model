@@ -1,0 +1,1 @@
+Initial Gear Ratio of 3.1 at a mass of 330lbs will give 312.3578mph at a peak acceleration of 49m/s^2
